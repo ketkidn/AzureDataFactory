@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\Users\\Aditya Shastri\\Desktop\\Ketki\\AZURE",
+			"host": "\\\\DESKTOP-3AU3UM5\\Users\\Aditya Shastri\\Desktop\\Ketki\\AZURE",
 			"userId": "admin",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzMTc3N2VkNy0xZWRiLTRiYzItOWE3OS0wYTg3NDM3MDRkMzIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyZDFiMDhhMy1lMWEzLTRiNTMtOTU4My0yMjQwNzFjZDM5ZjUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime4",
