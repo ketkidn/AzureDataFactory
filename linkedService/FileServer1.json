@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\\\DESKTOP-3AU3UM5\\Users\\Aditya Shastri\\Desktop",
+			"host": "\\\\DESKTOP-3AU3UM5\\$D",
 			"userId": "admin",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhNzNhMDMxMS0yOGQwLTQ2ZDAtYjk5OC00ODU2OTEyZTFlMDUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0NDYxZTcxMC04ZDIxLTQ1NDItODFhNC1mYmE4OTFmYTQ4NDciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime4",
