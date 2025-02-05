@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\\\DESKTOP-3AU3UM5\\$D",
+			"host": "\\\\reliance.reliance\\$D",
 			"userId": "admin",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0NDYxZTcxMC04ZDIxLTQ1NDItODFhNC1mYmE4OTFmYTQ4NDciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjYzM4YWExNy00MDQxLTQ3OWUtOTNjOC01ZDQyY2RiMDU3ZTIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime4",
