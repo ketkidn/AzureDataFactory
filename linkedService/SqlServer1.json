@@ -5,13 +5,13 @@
 		"annotations": [],
 		"type": "SqlServer",
 		"typeProperties": {
-			"server": "SQLLEARNER",
+			"server": "DESKTOP-3AU3UM5\\SQLLEARNER",
 			"database": "ADF",
 			"encrypt": "optional",
 			"trustServerCertificate": true,
 			"authenticationType": "Windows",
 			"userName": "AdminUser",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0NTE4ZDRlOC1iNmY2LTQzZTUtOGJmNC03NmYxYjdhODQyNTkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzZGY1YTJjZS1lZGIzLTQwY2ItODVmMy1hMzZjNWMwNDcxMWEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime4",
