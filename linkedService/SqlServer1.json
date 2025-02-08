@@ -10,8 +10,8 @@
 			"encrypt": "optional",
 			"trustServerCertificate": true,
 			"authenticationType": "Windows",
-			"userName": "admin",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2ZjU2OWUwOS05ZjIyLTQ3MjEtYmVhYi00OTJlNDlkZjY3NDkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userName": "AdminUser",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0NTE4ZDRlOC1iNmY2LTQzZTUtOGJmNC03NmYxYjdhODQyNTkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime4",
