@@ -9,12 +9,12 @@
 			"database": "ADF",
 			"encrypt": "optional",
 			"trustServerCertificate": true,
-			"authenticationType": "Windows",
+			"authenticationType": "SQL",
 			"userName": "AdminUser",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzZGY1YTJjZS1lZGIzLTQwY2ItODVmMy1hMzZjNWMwNDcxMWEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlOGE2MTE5My1hMjQyLTQ3YTAtYTQxMC1jYjEwNWE4ZjI2MjMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
-			"referenceName": "integrationRuntime4",
+			"referenceName": "integrationRuntime5",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
