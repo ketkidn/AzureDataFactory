@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\fe80::fba5:dc47:8037:a6cc%16\\ketkiadf",
+			"host": "\\\\DESKTOP-3AU3UM5\\ketkiadf",
 			"userId": "Aditya Shastri",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2NTg1ZjAwNy0wODhiLTQ2YTYtOGYzYi1iZWFlMTA3Y2ViZDYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4Yjk1ODk3Ni1kNzU1LTQ1ZjMtOTBhMC02YTUyNzVlZDExOTUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime5",
