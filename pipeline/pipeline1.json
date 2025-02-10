@@ -22,8 +22,7 @@
 						"type": "DelimitedTextSink",
 						"storeSettings": {
 							"type": "AzureBlobStorageWriteSettings",
-							"maxConcurrentConnections": 0,
-							"copyBehavior": "MergeFiles"
+							"maxConcurrentConnections": 0
 						},
 						"formatSettings": {
 							"type": "DelimitedTextWriteSettings",
